@@ -37,9 +37,9 @@ body {
     margin-left: 20%;
     margin-top: 50px;
     padding: 15px 30px; 
-    background-color: rgb(24, 75, 24);
+    background-color: rgb(15, 148, 15);
     border-radius: 10px; 
-    box-shadow: 0 4px 6px rgba(9, 111, 9, 0.3); 
+    box-shadow: 0 4px 6px rgba(0, 255, 0, 0.3); 
     transition: box-shadow 0.3s ease, transform 0.3s ease, background-color 0.3s ease;
 }
 
@@ -52,8 +52,8 @@ body {
 
 .bouton:hover {
     transform: scale(1.2);
-    background-color: rgb(23, 64, 23); 
-    box-shadow: 0 6px 12px rgba(20, 90, 20, 0.6); 
+    background-color: rgb(34, 149, 34); 
+    box-shadow: 0 6px 12px rgba(15, 255, 15, 0.6); 
 }
 
 
@@ -193,7 +193,7 @@ footer {
     padding: 10px 20px;
     font-size: 1.2em;
     color: #fff;
-    background-color: rgb(19, 97, 19);  /* Vert vif */
+    background-color: rgb(15, 148, 15);  /* Vert vif */
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -201,14 +201,14 @@ footer {
 }
 
 .project-item button:hover {
-    background-color: rgb(17, 94, 17);  
+    background-color: rgb(10, 120, 10);  
     transform: scale(1.1);  
-    box-shadow: 0 4px 8px rgba(17, 112, 17, 0.5);  
+    box-shadow: 0 4px 8px rgba(15, 255, 15, 0.5);  
 }
 
 .project-item button:focus {
     outline: none;
-    box-shadow: 0 0 5px rgba(17, 104, 17, 0.8);  
+    box-shadow: 0 0 5px rgba(15, 255, 15, 0.8);  
 }
 
 
@@ -292,7 +292,7 @@ footer {
 
 .gauge .fill {
     height: 100%;
-    background-color: rgb(20, 77, 20); 
+    background-color: rgb(15, 148, 15); 
     border-radius: 10px;
     transition: width 0.5s ease;
 }
@@ -395,7 +395,7 @@ footer {
         padding: 10px 20px;
         font-size: 1.2em;
         color: #fff;
-        background-color: rgb(21, 83, 21);  /* Vert vif */
+        background-color: rgb(15, 148, 15);  /* Vert vif */
         border: none;
         border-radius: 5px;
         cursor: pointer;
@@ -403,14 +403,14 @@ footer {
     }
     
     .work-item button:hover {
-        background-color: rgb(18, 68, 18);  
+        background-color: rgb(46, 140, 46);  
         transform: scale(1.1);  
-        box-shadow: 0 4px 8px rgba(13, 65, 13, 0.5);  
+        box-shadow: 0 4px 8px rgba(15, 255, 15, 0.5);  
     }
     
     .work-item button:focus {
         outline: none;
-        box-shadow: 0 0 5px rgba(23, 90, 23, 0.8);  
+        box-shadow: 0 0 5px rgba(15, 255, 15, 0.8);  
     }
 
     
@@ -487,7 +487,7 @@ footer {
         font-size: 1em;
         font-weight: bold;
         color: #ffffff;
-        background-color: rgb(21, 88, 21);
+        background-color: rgb(15, 148, 15);
         border: none;
         border-radius: 5px;
         cursor: pointer;
